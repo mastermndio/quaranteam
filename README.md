@@ -15,7 +15,7 @@ The internet has has all the information people need to become experts in a subj
 
 We're going to be creating an Open Source platform for curating Open Source Courses using all the free content that already exists out there. Think [LinkedIn Learning](https://www.linkedin.com/learning/me), [Pluralsight](https://www.pluralsight.com/), or [Skillshare](https://www.skillshare.com/) but FREE!
 
-We even have an name for this project! It's called SYNAPSE! A synapse is a structure that permits a neuron to pass information other neurons. SYNAPSE will be the structure that permits a person to pass infromation to other people.
+We even have an name for this project! It's called SYNAPSE! A synapse is a structure that permits a neuron to pass information to other neurons. SYNAPSE will be the structure that permits a person to pass infromation to other people.
 
 ## What can you expect to learn
 
